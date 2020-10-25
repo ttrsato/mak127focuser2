@@ -52,7 +52,7 @@ https://ttrsato.blogspot.com/2020/10/mak127sp-focuser-ver2_25.html
   
 # Author
  
-* Tatsuro Sato
+https://twitter.com/ttrsato
  
 # License
  
