@@ -56,7 +56,9 @@ https://ttrsato.blogspot.com/2020/10/mak127sp-focuser-ver2_25.html
  
 # License
  
-mak127forcuser2 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+* mak127forcuser2 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+* esptool.exe https://github.com/espressif/esptool
+* boot_app0.bin https://github.com/espressif/arduino-esp32
+* bootloader_dio_80m.bin https://github.com/espressif/arduino-esp32
+* bootloader_qui_80m.bin https://github.com/espressif/arduino-esp32
 
-インストールパッケージに含まれる esptool.exe については以下。
-https://github.com/espressif/esptool
