@@ -57,8 +57,5 @@ https://twitter.com/ttrsato
 # License
  
 * mak127forcuser2 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-* esptool.exe https://github.com/espressif/esptool
-* boot_app0.bin https://github.com/espressif/arduino-esp32
-* bootloader_dio_80m.bin https://github.com/espressif/arduino-esp32
-* bootloader_qui_80m.bin https://github.com/espressif/arduino-esp32
+
 
