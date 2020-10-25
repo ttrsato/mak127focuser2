@@ -57,3 +57,6 @@ https://ttrsato.blogspot.com/2020/10/mak127sp-focuser-ver2_25.html
 # License
  
 mak127forcuser2 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+インストールパッケージに含まれる esptool.exe については以下。
+https://github.com/espressif/esptool
