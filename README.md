@@ -32,7 +32,7 @@ https://m5stack.com/pages/download
 
 * M5Stack をコントローラとして使う場合
 M5Stack と Stepper Motor Driver Development Kit の ATOM lite に Arduino IDE 環境を使ってプログラムをダウンロードします。
-ATOM_StepMotorCtrl と M5Stack_focus2_controller の biary の下に Installer があるので、Arduino IDE の環境がなくても、インストール可能です。
+ライブラリ LovyanGFX と ESP32_I2C_Slave が必要です。
 
 * PC をコントローラとして使う場合
 バイナリ版と Python スクリプト版があります。 
