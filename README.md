@@ -48,7 +48,7 @@ pip install pyserial
 # Usage
 
 ブログの方に書いてます。
-https://ttrsato.blogspot.com/2020/10/mak127sp-focuser-ver2_25.html
+https://ttrsato.blogspot.com/2020/11/mak127sp-focuser-ver2.html
   
 # Author
  
